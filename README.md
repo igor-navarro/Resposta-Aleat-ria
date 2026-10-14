@@ -8,7 +8,6 @@ Um script divertido e minimalista em Python que simula a clássica "Bola 8 Mági
 ## ✨ Funcionalidades
 
 * **Interação Contínua**: Fica em loop recebendo perguntas até você digitar `sair`.
-* **Suspense**: Faz uma pausa dramática de 2 segundos simulando que está "pensando" (via biblioteca `time`).
 * **Aleatoriedade**: Retorna uma entre **20 respostas** possíveis — positivas, negativas ou neutras — de forma totalmente randômica (via biblioteca `random`).
 
 ## 🚀 Como rodar
